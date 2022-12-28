@@ -19,3 +19,7 @@ For the Pokemon data and assets, it currently has the first generation to the se
 
 - [PokeAPI](https://pokeapi.co/)
 - [Project Pokemon](https://projectpokemon.org/)
+
+## Contribution
+
+Please report any issue and feel free to help the dataset with it´s missing data. :hugs:
