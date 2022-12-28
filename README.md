@@ -10,3 +10,8 @@
 ## About
 
 This dataset is a combination of **Project Pokemon** assets, and **PokeAPI** data.
+
+## Resources
+
+- [PokeAPI](https://pokeapi.co/)
+- [Project Pokemon](https://projectpokemon.org/)
