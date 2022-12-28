@@ -11,6 +11,10 @@
 
 This dataset is a combination of **Project Pokemon** assets, and **PokeAPI** data.
 
+The current dataset has almost every item and move of pokemon.
+
+For the Pokemon data and assets, it currently has the first generation to the seventh generation.
+
 ## Resources
 
 - [PokeAPI](https://pokeapi.co/)
