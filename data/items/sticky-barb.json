@@ -1,0 +1,1 @@
+{"id":265,"name":"sticky-barb","category":"bad-held-items","cost":4000,"effect":"Held: Damaged the holder for 1/8 its max HP.  When the holder is struck by a contact move, damages the attacker for 1/8 its max HP; if the attacker is not holding an item, it will take this item.","asset":"https://raw.githubusercontent.com/vinisaveg/pokemon-dataset/main/assets/items/sticky-barb.png"}

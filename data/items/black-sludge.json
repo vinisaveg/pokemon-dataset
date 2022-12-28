@@ -1,0 +1,1 @@
+{"id":258,"name":"black-sludge","category":"held-items","cost":4000,"effect":"Held: If the holder is Poison-type, restores 1/16 max HP at the end of each turn.  Otherwise, damages the holder by 1/16 its max HP at the end of each turn.","asset":"https://raw.githubusercontent.com/vinisaveg/pokemon-dataset/main/assets/items/black-sludge.png"}
