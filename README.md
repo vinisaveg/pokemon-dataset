@@ -6,3 +6,7 @@
    <h1>pokemon-dataset</h1>
    <p>A pokemon data gathering including sprites, moves, items and stats.</p>
 </div>
+
+## About
+
+This dataset is a combination of **Project Pokemon** assets, and **PokeAPI** data.
