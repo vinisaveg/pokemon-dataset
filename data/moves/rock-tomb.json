@@ -1,0 +1,1 @@
+{"id":317,"name":"rock-tomb","accuracy":95,"power":60,"pp":15,"effectChance":100,"priority":0,"type":"rock","damageType":"physical","statChanges":[{"change":-1,"stat":{"name":"speed","url":"https://pokeapi.co/api/v2/stat/6/"}}],"effect":"Inflicts regular damage.  Has a $effect_chance% chance to lower the target's Speed by one stage."}

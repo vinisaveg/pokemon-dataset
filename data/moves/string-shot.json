@@ -1,0 +1,1 @@
+{"id":81,"name":"string-shot","accuracy":95,"power":null,"pp":40,"effectChance":null,"priority":0,"type":"bug","damageType":"status","statChanges":[{"change":-2,"stat":{"name":"speed","url":"https://pokeapi.co/api/v2/stat/6/"}}],"effect":"Lowers the target's Speed by two stages."}

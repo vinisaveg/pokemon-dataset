@@ -1,0 +1,1 @@
+{"id":294,"name":"tail-glow","accuracy":null,"power":null,"pp":20,"effectChance":null,"priority":0,"type":"bug","damageType":"status","statChanges":[{"change":3,"stat":{"name":"special-attack","url":"https://pokeapi.co/api/v2/stat/4/"}}],"effect":"Raises the user's Special Attack by three stages."}

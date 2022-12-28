@@ -1,0 +1,1 @@
+{"id":249,"name":"rock-smash","accuracy":100,"power":40,"pp":15,"effectChance":50,"priority":0,"type":"fighting","damageType":"physical","statChanges":[{"change":-1,"stat":{"name":"defense","url":"https://pokeapi.co/api/v2/stat/3/"}}],"effect":"Inflicts regular damage.  Has a $effect_chance% chance to lower the target's Defense by one stage."}

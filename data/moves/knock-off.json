@@ -1,0 +1,1 @@
+{"id":282,"name":"knock-off","accuracy":100,"power":65,"pp":20,"effectChance":null,"priority":0,"type":"dark","damageType":"physical","statChanges":[],"effect":"Inflicts regular damage.  Target loses its held item.\n\nNeither the user nor the target can recover its item with recycle.\n\nIf the target has multitype or sticky hold, it will take damage but not lose its item."}

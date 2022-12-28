@@ -1,0 +1,1 @@
+{"id":473,"name":"psyshock","accuracy":100,"power":80,"pp":10,"effectChance":null,"priority":0,"type":"psychic","damageType":"special","statChanges":[],"effect":"Inflicts regular damage.  Damage calculation always uses the target's Defense, regardless of this move's damage class."}

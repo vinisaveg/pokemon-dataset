@@ -1,0 +1,1 @@
+{"id":440,"name":"cross-poison","accuracy":100,"power":70,"pp":20,"effectChance":10,"priority":0,"type":"poison","damageType":"physical","statChanges":[],"effect":"Inflicts regular damage.  User's critical hit rate is one level higher when using this move. Has a $effect_chance% chance to poison the target."}

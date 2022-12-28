@@ -1,0 +1,1 @@
+{"id":231,"name":"iron-tail","accuracy":75,"power":100,"pp":15,"effectChance":30,"priority":0,"type":"steel","damageType":"physical","statChanges":[{"change":-1,"stat":{"name":"defense","url":"https://pokeapi.co/api/v2/stat/3/"}}],"effect":"Inflicts regular damage.  Has a $effect_chance% chance to lower the target's Defense by one stage."}

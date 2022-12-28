@@ -1,0 +1,1 @@
+{"id":341,"name":"mud-shot","accuracy":95,"power":55,"pp":15,"effectChance":100,"priority":0,"type":"ground","damageType":"special","statChanges":[{"change":-1,"stat":{"name":"speed","url":"https://pokeapi.co/api/v2/stat/6/"}}],"effect":"Inflicts regular damage.  Has a $effect_chance% chance to lower the target's Speed by one stage."}

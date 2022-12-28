@@ -1,0 +1,1 @@
+{"id":621,"name":"hyperspace-fury","accuracy":null,"power":100,"pp":5,"effectChance":100,"priority":0,"type":"dark","damageType":"physical","statChanges":[{"change":-1,"stat":{"name":"defense","url":"https://pokeapi.co/api/v2/stat/3/"}}],"effect":"Inflicts regular damage.  Bypasses and removes any protection effect on the target."}

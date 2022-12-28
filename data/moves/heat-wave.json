@@ -1,0 +1,1 @@
+{"id":257,"name":"heat-wave","accuracy":90,"power":95,"pp":10,"effectChance":10,"priority":0,"type":"fire","damageType":"special","statChanges":[],"effect":"Inflicts regular damage.  Has a $effect_chance% chance to burn the target."}

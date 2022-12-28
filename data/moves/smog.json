@@ -1,0 +1,1 @@
+{"id":123,"name":"smog","accuracy":70,"power":30,"pp":20,"effectChance":40,"priority":0,"type":"poison","damageType":"special","statChanges":[],"effect":"Inflicts regular damage.  Has a $effect_chance% chance to poison the target."}

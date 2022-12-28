@@ -1,0 +1,1 @@
+{"id":288,"name":"grudge","accuracy":null,"power":null,"pp":5,"effectChance":null,"priority":0,"type":"ghost","damageType":"status","statChanges":[],"effect":"If the user faints before it next acts, the move that fainted it will have its PP dropped to 0.  End-of-turn damage does not trigger this effect."}

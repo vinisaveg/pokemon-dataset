@@ -1,0 +1,1 @@
+{"id":364,"name":"feint","accuracy":100,"power":30,"pp":10,"effectChance":null,"priority":2,"type":"normal","damageType":"physical","statChanges":[],"effect":"Inflicts regular damage.  Removes the effects of detect or protect from the target before hitting.\n\nThis move cannot be copied by mirror move, nor selected by assist or metronome."}

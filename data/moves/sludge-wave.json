@@ -1,0 +1,1 @@
+{"id":482,"name":"sludge-wave","accuracy":100,"power":95,"pp":10,"effectChance":10,"priority":0,"type":"poison","damageType":"special","statChanges":[],"effect":"Inflicts regular damage.  Has a $effect_chance% chance to poison the target."}

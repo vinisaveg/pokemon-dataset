@@ -1,0 +1,1 @@
+{"id":582,"name":"electrify","accuracy":null,"power":null,"pp":20,"effectChance":null,"priority":0,"type":"electric","damageType":"status","statChanges":[],"effect":"Changes the target's move's type to electric if it hasn't moved yet this turn."}

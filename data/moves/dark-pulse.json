@@ -1,0 +1,1 @@
+{"id":399,"name":"dark-pulse","accuracy":100,"power":80,"pp":15,"effectChance":20,"priority":0,"type":"dark","damageType":"special","statChanges":[],"effect":"Inflicts regular damage.  Has a $effect_chance% chance to make the target flinch."}

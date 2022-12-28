@@ -1,0 +1,1 @@
+{"id":595,"name":"mystical-fire","accuracy":100,"power":75,"pp":10,"effectChance":100,"priority":0,"type":"fire","damageType":"special","statChanges":[{"change":-1,"stat":{"name":"special-attack","url":"https://pokeapi.co/api/v2/stat/4/"}}],"effect":"Inflicts regular damage.  Has a $effect_chance% chance to lower the target's Special Attack by one stage."}

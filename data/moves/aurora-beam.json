@@ -1,0 +1,1 @@
+{"id":62,"name":"aurora-beam","accuracy":100,"power":65,"pp":20,"effectChance":10,"priority":0,"type":"ice","damageType":"special","statChanges":[{"change":-1,"stat":{"name":"attack","url":"https://pokeapi.co/api/v2/stat/2/"}}],"effect":"Inflicts regular damage.  Has a $effect_chance% chance to lower the target's Attack by one stage."}

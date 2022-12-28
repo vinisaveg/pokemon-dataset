@@ -1,0 +1,1 @@
+{"id":85,"name":"thunderbolt","accuracy":100,"power":90,"pp":15,"effectChance":10,"priority":0,"type":"electric","damageType":"special","statChanges":[],"effect":"Inflicts regular damage.  Has a $effect_chance% chance to paralyze the target."}

@@ -1,0 +1,1 @@
+{"id":411,"name":"focus-blast","accuracy":70,"power":120,"pp":5,"effectChance":10,"priority":0,"type":"fighting","damageType":"special","statChanges":[{"change":-1,"stat":{"name":"special-defense","url":"https://pokeapi.co/api/v2/stat/5/"}}],"effect":"Inflicts regular damage.  Has a $effect_chance% chance to lower the target's Special Defense by one stage."}

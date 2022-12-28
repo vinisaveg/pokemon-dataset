@@ -1,0 +1,1 @@
+{"id":173,"name":"snore","accuracy":100,"power":50,"pp":15,"effectChance":30,"priority":0,"type":"normal","damageType":"special","statChanges":[],"effect":"Only usable if the user is sleeping.  Inflicts regular damage.  Has a $effect_chance% chance to make the target flinch."}

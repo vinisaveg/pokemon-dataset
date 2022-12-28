@@ -1,0 +1,1 @@
+{"id":550,"name":"bolt-strike","accuracy":85,"power":130,"pp":5,"effectChance":20,"priority":0,"type":"electric","damageType":"physical","statChanges":[],"effect":"Inflicts regular damage.  Has a $effect_chance% chance to paralyze the target."}

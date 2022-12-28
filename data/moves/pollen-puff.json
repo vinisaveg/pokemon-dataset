@@ -1,0 +1,1 @@
+{"id":676,"name":"pollen-puff","accuracy":100,"power":90,"pp":15,"effectChance":null,"priority":0,"type":"bug","damageType":"special","statChanges":[],"effect":"If the target is an opponent, inflicts regular damage.  If the target is an ally, heals the target for 50% of its max HP."}

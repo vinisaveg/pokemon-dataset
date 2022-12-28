@@ -1,0 +1,1 @@
+{"id":417,"name":"nasty-plot","accuracy":null,"power":null,"pp":20,"effectChance":null,"priority":0,"type":"dark","damageType":"status","statChanges":[{"change":2,"stat":{"name":"special-attack","url":"https://pokeapi.co/api/v2/stat/4/"}}],"effect":"Raises the user's Special Attack by two stages."}

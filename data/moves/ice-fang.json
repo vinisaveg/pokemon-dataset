@@ -1,0 +1,1 @@
+{"id":423,"name":"ice-fang","accuracy":95,"power":65,"pp":15,"effectChance":10,"priority":0,"type":"ice","damageType":"physical","statChanges":[],"effect":"Inflicts regular damage.  Has a $effect_chance% chance to freeze the target and a separate $effect_chance% chance to make the target flinch."}

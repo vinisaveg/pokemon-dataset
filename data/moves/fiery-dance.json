@@ -1,0 +1,1 @@
+{"id":552,"name":"fiery-dance","accuracy":100,"power":80,"pp":10,"effectChance":50,"priority":0,"type":"fire","damageType":"special","statChanges":[{"change":1,"stat":{"name":"special-attack","url":"https://pokeapi.co/api/v2/stat/4/"}}],"effect":"Inflicts regular damage.  Has a $effect_chance% chance to raise the user's Special Attack by one stage."}

@@ -1,0 +1,1 @@
+{"id":723,"name":"light-that-burns-the-sky","accuracy":null,"power":200,"pp":1,"effectChance":null,"priority":0,"type":"psychic","damageType":"special","statChanges":[],"effect":"Inflicts damage using either Attack or Special Attack stat, whichever is higher. Determining which stat is used takes into account stat changes but not held items or abilities."}

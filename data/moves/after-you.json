@@ -1,0 +1,1 @@
+{"id":495,"name":"after-you","accuracy":null,"power":null,"pp":15,"effectChance":null,"priority":0,"type":"normal","damageType":"status","statChanges":[],"effect":"The target will act next this turn, regardless of Speed or move priority.\nIf the target has already acted this turn, this move will fail."}

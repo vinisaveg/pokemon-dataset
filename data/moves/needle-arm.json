@@ -1,0 +1,1 @@
+{"id":302,"name":"needle-arm","accuracy":100,"power":60,"pp":15,"effectChance":30,"priority":0,"type":"grass","damageType":"physical","statChanges":[],"effect":"Inflicts regular damage.  Has a $effect_chance% chance to make the target flinch."}

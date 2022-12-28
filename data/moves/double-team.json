@@ -1,0 +1,1 @@
+{"id":104,"name":"double-team","accuracy":null,"power":null,"pp":15,"effectChance":null,"priority":0,"type":"normal","damageType":"status","statChanges":[{"change":1,"stat":{"name":"evasion","url":"https://pokeapi.co/api/v2/stat/8/"}}],"effect":"Raises the user's evasion by one stage."}

@@ -1,0 +1,1 @@
+{"id":679,"name":"lunge","accuracy":100,"power":80,"pp":15,"effectChance":100,"priority":0,"type":"bug","damageType":"physical","statChanges":[{"change":-1,"stat":{"name":"attack","url":"https://pokeapi.co/api/v2/stat/2/"}}],"effect":"Inflicts regular damage.  Lowers the target's Attack by one stage."}

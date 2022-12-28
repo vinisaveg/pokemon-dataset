@@ -1,0 +1,1 @@
+{"id":545,"name":"searing-shot","accuracy":100,"power":100,"pp":5,"effectChance":30,"priority":0,"type":"fire","damageType":"special","statChanges":[],"effect":"Inflicts regular damage.  Has a $effect_chance% chance to burn the target."}

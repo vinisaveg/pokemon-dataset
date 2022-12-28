@@ -1,0 +1,1 @@
+{"id":122,"name":"lick","accuracy":100,"power":30,"pp":30,"effectChance":30,"priority":0,"type":"ghost","damageType":"physical","statChanges":[],"effect":"Inflicts regular damage.  Has a $effect_chance% chance to paralyze the target."}

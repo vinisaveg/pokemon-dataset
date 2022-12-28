@@ -1,0 +1,1 @@
+{"id":230,"name":"sweet-scent","accuracy":100,"power":null,"pp":20,"effectChance":null,"priority":0,"type":"normal","damageType":"status","statChanges":[{"change":-2,"stat":{"name":"evasion","url":"https://pokeapi.co/api/v2/stat/8/"}}],"effect":"Lowers the target's evasion by one stage."}

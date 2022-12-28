@@ -1,0 +1,1 @@
+{"id":299,"name":"blaze-kick","accuracy":90,"power":85,"pp":10,"effectChance":10,"priority":0,"type":"fire","damageType":"physical","statChanges":[],"effect":"Inflicts regular damage.  User's critical hit rate is one level higher when using this move. Has a $effect_chance% chance to burn the target."}

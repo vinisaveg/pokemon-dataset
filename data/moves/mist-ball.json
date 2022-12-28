@@ -1,0 +1,1 @@
+{"id":296,"name":"mist-ball","accuracy":100,"power":70,"pp":5,"effectChance":50,"priority":0,"type":"psychic","damageType":"special","statChanges":[{"change":-1,"stat":{"name":"special-attack","url":"https://pokeapi.co/api/v2/stat/4/"}}],"effect":"Inflicts regular damage.  Has a $effect_chance% chance to lower the target's Special Attack by one stage."}

@@ -1,0 +1,1 @@
+{"id":811,"name":"coaching","accuracy":null,"power":null,"pp":10,"effectChance":100,"priority":0,"type":"fighting","damageType":"status","statChanges":[{"change":1,"stat":{"name":"attack","url":"https://pokeapi.co/api/v2/stat/2/"}},{"change":1,"stat":{"name":"defense","url":"https://pokeapi.co/api/v2/stat/3/"}}],"effect":"Inflicts regular damage."}

@@ -1,0 +1,1 @@
+{"id":319,"name":"metal-sound","accuracy":85,"power":null,"pp":40,"effectChance":null,"priority":0,"type":"steel","damageType":"status","statChanges":[{"change":-2,"stat":{"name":"special-defense","url":"https://pokeapi.co/api/v2/stat/5/"}}],"effect":"Lowers the target's Special Defense by two stages."}

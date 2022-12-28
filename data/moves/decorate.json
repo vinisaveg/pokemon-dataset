@@ -1,0 +1,1 @@
+{"id":777,"name":"decorate","accuracy":null,"power":null,"pp":15,"effectChance":100,"priority":0,"type":"fairy","damageType":"status","statChanges":[{"change":2,"stat":{"name":"attack","url":"https://pokeapi.co/api/v2/stat/2/"}},{"change":2,"stat":{"name":"special-attack","url":"https://pokeapi.co/api/v2/stat/4/"}}],"effect":""}

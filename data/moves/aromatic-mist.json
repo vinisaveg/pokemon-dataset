@@ -1,0 +1,1 @@
+{"id":597,"name":"aromatic-mist","accuracy":null,"power":null,"pp":20,"effectChance":null,"priority":0,"type":"fairy","damageType":"status","statChanges":[{"change":1,"stat":{"name":"special-defense","url":"https://pokeapi.co/api/v2/stat/5/"}}],"effect":"Raises a selected ally's Special Defense by one stage."}

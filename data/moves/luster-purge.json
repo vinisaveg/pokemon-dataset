@@ -1,0 +1,1 @@
+{"id":295,"name":"luster-purge","accuracy":100,"power":70,"pp":5,"effectChance":50,"priority":0,"type":"psychic","damageType":"special","statChanges":[{"change":-1,"stat":{"name":"special-defense","url":"https://pokeapi.co/api/v2/stat/5/"}}],"effect":"Inflicts regular damage.  Has a $effect_chance% chance to lower the target's Special Defense by one stage."}

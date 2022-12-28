@@ -1,0 +1,1 @@
+{"id":468,"name":"hone-claws","accuracy":null,"power":null,"pp":15,"effectChance":null,"priority":0,"type":"dark","damageType":"status","statChanges":[{"change":1,"stat":{"name":"attack","url":"https://pokeapi.co/api/v2/stat/2/"}},{"change":1,"stat":{"name":"accuracy","url":"https://pokeapi.co/api/v2/stat/7/"}}],"effect":"Raises the user's Attack and accuracy by one stage."}

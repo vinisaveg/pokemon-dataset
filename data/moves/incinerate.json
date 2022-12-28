@@ -1,0 +1,1 @@
+{"id":510,"name":"incinerate","accuracy":100,"power":60,"pp":15,"effectChance":null,"priority":0,"type":"fire","damageType":"special","statChanges":[],"effect":"Inflicts regular damage.  If the target is holding a berry, it's destroyed and cannot be used in response to this move."}

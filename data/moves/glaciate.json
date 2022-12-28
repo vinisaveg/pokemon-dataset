@@ -1,0 +1,1 @@
+{"id":549,"name":"glaciate","accuracy":95,"power":65,"pp":10,"effectChance":100,"priority":0,"type":"ice","damageType":"special","statChanges":[{"change":-1,"stat":{"name":"speed","url":"https://pokeapi.co/api/v2/stat/6/"}}],"effect":"Inflicts regular damage.  Lowers the target's Speed by one stage."}

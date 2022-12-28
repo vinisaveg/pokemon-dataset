@@ -1,0 +1,1 @@
+{"id":585,"name":"moonblast","accuracy":100,"power":95,"pp":15,"effectChance":30,"priority":0,"type":"fairy","damageType":"special","statChanges":[{"change":-1,"stat":{"name":"special-attack","url":"https://pokeapi.co/api/v2/stat/4/"}}],"effect":"Inflicts regular damage.  Has a $effect_chance% chance to lower the target's Special Attack by one stage."}

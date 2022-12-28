@@ -1,0 +1,1 @@
+{"id":157,"name":"rock-slide","accuracy":90,"power":75,"pp":10,"effectChance":30,"priority":0,"type":"rock","damageType":"physical","statChanges":[],"effect":"Inflicts regular damage.  Has a $effect_chance% chance to make the target flinch."}

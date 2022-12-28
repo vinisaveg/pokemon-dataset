@@ -1,0 +1,1 @@
+{"id":189,"name":"mud-slap","accuracy":100,"power":20,"pp":10,"effectChance":100,"priority":0,"type":"ground","damageType":"special","statChanges":[{"change":-1,"stat":{"name":"accuracy","url":"https://pokeapi.co/api/v2/stat/7/"}}],"effect":"Inflicts regular damage.  Has a $effect_chance% chance to lower the target's accuracy by one stage."}

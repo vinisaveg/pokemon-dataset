@@ -1,0 +1,1 @@
+{"id":412,"name":"energy-ball","accuracy":100,"power":90,"pp":10,"effectChance":10,"priority":0,"type":"grass","damageType":"special","statChanges":[{"change":-1,"stat":{"name":"special-defense","url":"https://pokeapi.co/api/v2/stat/5/"}}],"effect":"Inflicts regular damage.  Has a $effect_chance% chance to lower the target's Special Defense by one stage."}

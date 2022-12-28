@@ -1,0 +1,1 @@
+{"id":41,"name":"twineedle","accuracy":100,"power":25,"pp":20,"effectChance":20,"priority":0,"type":"bug","damageType":"physical","statChanges":[],"effect":"Inflicts regular damage.  Hits twice in the same turn.  Has a $effect_chance% chance to poison the target."}

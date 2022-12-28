@@ -1,0 +1,1 @@
+{"id":101,"name":"night-shade","accuracy":100,"power":null,"pp":15,"effectChance":null,"priority":0,"type":"ghost","damageType":"special","statChanges":[],"effect":"Inflicts damage equal to the user's level.  Type immunity applies, but other type effects are ignored."}

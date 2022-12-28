@@ -1,0 +1,1 @@
+{"id":612,"name":"power-up-punch","accuracy":100,"power":40,"pp":20,"effectChance":100,"priority":0,"type":"fighting","damageType":"physical","statChanges":[{"change":1,"stat":{"name":"attack","url":"https://pokeapi.co/api/v2/stat/2/"}}],"effect":"Inflicts regular damage.  Raises the user's Attack by one stage."}

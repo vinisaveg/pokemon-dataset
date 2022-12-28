@@ -1,0 +1,1 @@
+{"id":309,"name":"meteor-mash","accuracy":90,"power":90,"pp":10,"effectChance":20,"priority":0,"type":"steel","damageType":"physical","statChanges":[{"change":1,"stat":{"name":"attack","url":"https://pokeapi.co/api/v2/stat/2/"}}],"effect":"Inflicts regular damage. Has a $effect_chance% chance to raise the user's Attack one stage."}

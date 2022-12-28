@@ -1,0 +1,1 @@
+{"id":749,"name":"tar-shot","accuracy":100,"power":null,"pp":15,"effectChance":100,"priority":0,"type":"rock","damageType":"status","statChanges":[{"change":-1,"stat":{"name":"speed","url":"https://pokeapi.co/api/v2/stat/6/"}}],"effect":""}

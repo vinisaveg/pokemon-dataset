@@ -1,0 +1,1 @@
+{"id":491,"name":"acid-spray","accuracy":100,"power":40,"pp":20,"effectChance":100,"priority":0,"type":"poison","damageType":"special","statChanges":[{"change":-2,"stat":{"name":"special-defense","url":"https://pokeapi.co/api/v2/stat/5/"}}],"effect":"Inflicts regular damage.  Lowers the target's Special Defense by two stages."}

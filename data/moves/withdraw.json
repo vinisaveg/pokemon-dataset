@@ -1,0 +1,1 @@
+{"id":110,"name":"withdraw","accuracy":null,"power":null,"pp":40,"effectChance":null,"priority":0,"type":"water","damageType":"status","statChanges":[{"change":1,"stat":{"name":"defense","url":"https://pokeapi.co/api/v2/stat/3/"}}],"effect":"Raises the user's Defense by one stage."}

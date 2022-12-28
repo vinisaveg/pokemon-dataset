@@ -1,0 +1,1 @@
+{"id":268,"name":"charge","accuracy":null,"power":null,"pp":20,"effectChance":null,"priority":0,"type":"electric","damageType":"status","statChanges":[{"change":1,"stat":{"name":"special-defense","url":"https://pokeapi.co/api/v2/stat/5/"}}],"effect":"Raises the user's Special Defense by one stage.  If the user uses an electric move next turn, its power will be doubled."}

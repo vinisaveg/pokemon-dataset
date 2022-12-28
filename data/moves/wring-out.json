@@ -1,0 +1,1 @@
+{"id":378,"name":"wring-out","accuracy":100,"power":null,"pp":5,"effectChance":null,"priority":0,"type":"normal","damageType":"special","statChanges":[],"effect":"Inflicts regular damage.  Power directly relates to the target's relative remaining HP, given by `1 + 120 * current HP / max HP`, to a maximum of 121."}

@@ -1,0 +1,1 @@
+{"id":127,"name":"waterfall","accuracy":100,"power":80,"pp":15,"effectChance":20,"priority":0,"type":"water","damageType":"physical","statChanges":[],"effect":"Inflicts regular damage.  Has a $effect_chance% chance to make the target flinch."}

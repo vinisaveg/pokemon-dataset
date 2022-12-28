@@ -1,0 +1,1 @@
+{"id":7,"name":"fire-punch","accuracy":100,"power":75,"pp":15,"effectChance":10,"priority":0,"type":"fire","damageType":"physical","statChanges":[],"effect":"Inflicts regular damage.  Has a $effect_chance% chance to burn the target."}

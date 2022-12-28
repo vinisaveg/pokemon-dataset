@@ -1,0 +1,1 @@
+{"id":553,"name":"freeze-shock","accuracy":90,"power":140,"pp":5,"effectChance":30,"priority":0,"type":"ice","damageType":"physical","statChanges":[],"effect":"Inflicts regular damage.  Has a $effect_chance% chance to paralyze the target.  User charges for one turn before attacking."}

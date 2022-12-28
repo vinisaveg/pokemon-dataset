@@ -1,0 +1,1 @@
+{"id":397,"name":"rock-polish","accuracy":null,"power":null,"pp":20,"effectChance":null,"priority":0,"type":"rock","damageType":"status","statChanges":[{"change":2,"stat":{"name":"speed","url":"https://pokeapi.co/api/v2/stat/6/"}}],"effect":"Raises the user's Speed by two stages."}

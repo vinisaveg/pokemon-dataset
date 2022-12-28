@@ -1,0 +1,1 @@
+{"id":141,"name":"leech-life","accuracy":100,"power":80,"pp":10,"effectChance":null,"priority":0,"type":"bug","damageType":"physical","statChanges":[],"effect":"Inflicts regular damage.  Drains half the damage inflicted to heal the user."}

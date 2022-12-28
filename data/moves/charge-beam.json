@@ -1,0 +1,1 @@
+{"id":451,"name":"charge-beam","accuracy":90,"power":50,"pp":10,"effectChance":70,"priority":0,"type":"electric","damageType":"special","statChanges":[{"change":1,"stat":{"name":"special-attack","url":"https://pokeapi.co/api/v2/stat/4/"}}],"effect":"Inflicts regular damage.  Has a $effect_chance% chance to raise the user's Special Attack by one stage."}

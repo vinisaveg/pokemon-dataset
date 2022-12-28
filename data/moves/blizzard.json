@@ -1,0 +1,1 @@
+{"id":59,"name":"blizzard","accuracy":70,"power":110,"pp":5,"effectChance":10,"priority":0,"type":"ice","damageType":"special","statChanges":[],"effect":"Inflicts regular damage.  Has a $effect_chance% chance to freeze the target.\n\nDuring hail, this move has 100% accuracy.  It also has a (100 - accuracy)% chance to break through the protection of protect and detect."}

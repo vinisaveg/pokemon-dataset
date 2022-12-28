@@ -1,0 +1,1 @@
+{"id":787,"name":"apple-acid","accuracy":100,"power":80,"pp":10,"effectChance":100,"priority":0,"type":"grass","damageType":"special","statChanges":[{"change":-1,"stat":{"name":"special-defense","url":"https://pokeapi.co/api/v2/stat/5/"}}],"effect":""}

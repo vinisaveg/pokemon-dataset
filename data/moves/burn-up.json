@@ -1,0 +1,1 @@
+{"id":682,"name":"burn-up","accuracy":100,"power":130,"pp":5,"effectChance":null,"priority":0,"type":"fire","damageType":"special","statChanges":[],"effect":"Inflicts regular damage.  Removes the user's fire type after damage calculation.  If the user is not fire-type, this move will fail."}

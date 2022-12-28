@@ -1,0 +1,1 @@
+{"id":523,"name":"bulldoze","accuracy":100,"power":60,"pp":20,"effectChance":100,"priority":0,"type":"ground","damageType":"physical","statChanges":[{"change":-1,"stat":{"name":"speed","url":"https://pokeapi.co/api/v2/stat/6/"}}],"effect":"Inflicts regular damage.  Has a $effect_chance% chance to lower the target's Speed by one stage."}

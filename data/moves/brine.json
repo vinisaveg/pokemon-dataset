@@ -1,0 +1,1 @@
+{"id":362,"name":"brine","accuracy":100,"power":65,"pp":10,"effectChance":null,"priority":0,"type":"water","damageType":"special","statChanges":[],"effect":"Inflicts regular damage.  If the target has less than half its max HP remaining, this move has double power."}

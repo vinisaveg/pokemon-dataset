@@ -1,0 +1,1 @@
+{"id":439,"name":"rock-wrecker","accuracy":90,"power":150,"pp":5,"effectChance":null,"priority":0,"type":"rock","damageType":"physical","statChanges":[],"effect":"Inflicts regular damage.  User loses its next turn to \"recharge\", and cannot attack or switch out during that turn."}

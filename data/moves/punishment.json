@@ -1,0 +1,1 @@
+{"id":386,"name":"punishment","accuracy":100,"power":null,"pp":5,"effectChance":null,"priority":0,"type":"dark","damageType":"physical","statChanges":[],"effect":"Inflicts regular damage.  Power starts at 60 and is increased by 20 for every stage any of the target's stats has been raised, capping at 200.  Accuracy and evasion modifiers do not increase this move's power."}

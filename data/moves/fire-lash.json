@@ -1,0 +1,1 @@
+{"id":680,"name":"fire-lash","accuracy":100,"power":80,"pp":15,"effectChance":100,"priority":0,"type":"fire","damageType":"physical","statChanges":[{"change":-1,"stat":{"name":"defense","url":"https://pokeapi.co/api/v2/stat/3/"}}],"effect":"Inflicts regular damage.  Lowers the target's Defense by one stage."}

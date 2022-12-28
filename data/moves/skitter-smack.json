@@ -1,0 +1,1 @@
+{"id":806,"name":"skitter-smack","accuracy":90,"power":70,"pp":10,"effectChance":100,"priority":0,"type":"bug","damageType":"physical","statChanges":[{"change":-1,"stat":{"name":"special-attack","url":"https://pokeapi.co/api/v2/stat/4/"}}],"effect":"Inflicts regular damage."}

@@ -1,0 +1,1 @@
+{"id":204,"name":"charm","accuracy":100,"power":null,"pp":20,"effectChance":null,"priority":0,"type":"fairy","damageType":"status","statChanges":[{"change":-2,"stat":{"name":"attack","url":"https://pokeapi.co/api/v2/stat/2/"}}],"effect":"Lowers the target's Attack by two stages."}

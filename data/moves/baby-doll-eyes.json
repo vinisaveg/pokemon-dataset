@@ -1,0 +1,1 @@
+{"id":608,"name":"baby-doll-eyes","accuracy":100,"power":null,"pp":30,"effectChance":null,"priority":1,"type":"fairy","damageType":"status","statChanges":[{"change":-1,"stat":{"name":"attack","url":"https://pokeapi.co/api/v2/stat/2/"}}],"effect":"Lowers the target's Attack by one stage."}

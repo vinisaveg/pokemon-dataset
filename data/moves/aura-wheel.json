@@ -1,0 +1,1 @@
+{"id":783,"name":"aura-wheel","accuracy":100,"power":110,"pp":10,"effectChance":100,"priority":0,"type":"electric","damageType":"physical","statChanges":[{"change":1,"stat":{"name":"speed","url":"https://pokeapi.co/api/v2/stat/6/"}}],"effect":""}

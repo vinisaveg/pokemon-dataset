@@ -1,0 +1,1 @@
+{"id":308,"name":"hydro-cannon","accuracy":90,"power":150,"pp":5,"effectChance":null,"priority":0,"type":"water","damageType":"special","statChanges":[],"effect":"Inflicts regular damage.  User loses its next turn to \"recharge\", and cannot attack or switch out during that turn."}

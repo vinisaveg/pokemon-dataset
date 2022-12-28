@@ -1,0 +1,1 @@
+{"id":414,"name":"earth-power","accuracy":100,"power":90,"pp":10,"effectChance":10,"priority":0,"type":"ground","damageType":"special","statChanges":[{"change":-1,"stat":{"name":"special-defense","url":"https://pokeapi.co/api/v2/stat/5/"}}],"effect":"Inflicts regular damage.  Has a $effect_chance% chance to lower the target's Special Defense by one stage."}

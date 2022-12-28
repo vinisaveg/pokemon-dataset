@@ -1,0 +1,1 @@
+{"id":284,"name":"eruption","accuracy":100,"power":150,"pp":5,"effectChance":null,"priority":0,"type":"fire","damageType":"special","statChanges":[],"effect":"Inflicts regular damage.  Power increases with the user's remaining HP and is given by `150 * HP / max HP`, to a maximum of 150 when the user has full HP."}

@@ -1,0 +1,1 @@
+{"id":579,"name":"flower-shield","accuracy":null,"power":null,"pp":10,"effectChance":100,"priority":0,"type":"fairy","damageType":"status","statChanges":[{"change":1,"stat":{"name":"defense","url":"https://pokeapi.co/api/v2/stat/3/"}}],"effect":"Raises the Defense of all grass Pokémon in battle."}

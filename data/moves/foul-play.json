@@ -1,0 +1,1 @@
+{"id":492,"name":"foul-play","accuracy":100,"power":95,"pp":15,"effectChance":null,"priority":0,"type":"dark","damageType":"physical","statChanges":[],"effect":"Inflicts regular damage.  Damage is calculated using the target's attacking stat rather than the user's."}

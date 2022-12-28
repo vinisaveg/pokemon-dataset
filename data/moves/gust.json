@@ -1,0 +1,1 @@
+{"id":16,"name":"gust","accuracy":100,"power":40,"pp":35,"effectChance":null,"priority":0,"type":"flying","damageType":"special","statChanges":[],"effect":"Inflicts regular damage.\n\nIf the target is under the effect of bounce, fly, or sky drop, this move will hit with double power."}

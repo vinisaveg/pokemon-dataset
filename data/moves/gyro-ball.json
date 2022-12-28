@@ -1,0 +1,1 @@
+{"id":360,"name":"gyro-ball","accuracy":100,"power":null,"pp":5,"effectChance":null,"priority":0,"type":"steel","damageType":"physical","statChanges":[],"effect":"Inflicts regular damage.  Power increases with the target's current Speed compared to the user, given by `1 + 25 * target Speed / user Speed`, capped at 150."}

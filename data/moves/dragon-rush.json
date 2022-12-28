@@ -1,0 +1,1 @@
+{"id":407,"name":"dragon-rush","accuracy":75,"power":100,"pp":10,"effectChance":20,"priority":0,"type":"dragon","damageType":"physical","statChanges":[],"effect":"Inflicts regular damage.  Has a $effect_chance% chance to make the target flinch."}

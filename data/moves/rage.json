@@ -1,0 +1,1 @@
+{"id":99,"name":"rage","accuracy":100,"power":20,"pp":20,"effectChance":null,"priority":0,"type":"normal","damageType":"physical","statChanges":[],"effect":"Inflicts regular damage.  Every time the user is hit after it uses this move but before its next action, its Attack raises by one stage."}

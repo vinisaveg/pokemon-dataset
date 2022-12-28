@@ -1,0 +1,1 @@
+{"id":181,"name":"powder-snow","accuracy":100,"power":40,"pp":25,"effectChance":10,"priority":0,"type":"ice","damageType":"special","statChanges":[],"effect":"Inflicts regular damage.  Has a $effect_chance% chance to freeze the target."}

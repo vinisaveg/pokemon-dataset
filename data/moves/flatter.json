@@ -1,0 +1,1 @@
+{"id":260,"name":"flatter","accuracy":100,"power":null,"pp":15,"effectChance":null,"priority":0,"type":"dark","damageType":"status","statChanges":[{"change":1,"stat":{"name":"special-attack","url":"https://pokeapi.co/api/v2/stat/4/"}}],"effect":"Raises the target's Special Attack by one stage, then confuses it."}

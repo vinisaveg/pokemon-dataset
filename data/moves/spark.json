@@ -1,0 +1,1 @@
+{"id":209,"name":"spark","accuracy":100,"power":65,"pp":20,"effectChance":30,"priority":0,"type":"electric","damageType":"physical","statChanges":[],"effect":"Inflicts regular damage.  Has a $effect_chance% chance to paralyze the target."}

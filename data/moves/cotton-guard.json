@@ -1,0 +1,1 @@
+{"id":538,"name":"cotton-guard","accuracy":null,"power":null,"pp":10,"effectChance":null,"priority":0,"type":"grass","damageType":"status","statChanges":[{"change":3,"stat":{"name":"defense","url":"https://pokeapi.co/api/v2/stat/3/"}}],"effect":"Raises the user's Defense by three stages."}

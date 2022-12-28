@@ -1,0 +1,1 @@
+{"id":60,"name":"psybeam","accuracy":100,"power":65,"pp":20,"effectChance":10,"priority":0,"type":"psychic","damageType":"special","statChanges":[],"effect":"Inflicts regular damage.  Has a $effect_chance% chance to confuse the target."}

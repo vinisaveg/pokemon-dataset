@@ -1,0 +1,1 @@
+{"id":823,"name":"thunderous-kick","accuracy":100,"power":90,"pp":10,"effectChance":100,"priority":0,"type":"fighting","damageType":"physical","statChanges":[{"change":-1,"stat":{"name":"defense","url":"https://pokeapi.co/api/v2/stat/3/"}}],"effect":"Inflicts regular damage."}

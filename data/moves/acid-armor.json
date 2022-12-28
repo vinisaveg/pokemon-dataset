@@ -1,0 +1,1 @@
+{"id":151,"name":"acid-armor","accuracy":null,"power":null,"pp":20,"effectChance":null,"priority":0,"type":"poison","damageType":"status","statChanges":[{"change":2,"stat":{"name":"defense","url":"https://pokeapi.co/api/v2/stat/3/"}}],"effect":"Raises the user's Defense by two stages."}

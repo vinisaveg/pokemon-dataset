@@ -1,0 +1,1 @@
+{"id":352,"name":"water-pulse","accuracy":100,"power":60,"pp":20,"effectChance":20,"priority":0,"type":"water","damageType":"special","statChanges":[],"effect":"Inflicts regular damage.  Has a $effect_chance% chance to confuse the target."}

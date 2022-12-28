@@ -1,0 +1,1 @@
+{"id":178,"name":"cotton-spore","accuracy":100,"power":null,"pp":40,"effectChance":null,"priority":0,"type":"grass","damageType":"status","statChanges":[{"change":-2,"stat":{"name":"speed","url":"https://pokeapi.co/api/v2/stat/6/"}}],"effect":"Lowers the target's Speed by two stages."}

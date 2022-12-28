@@ -1,0 +1,1 @@
+{"id":120,"name":"self-destruct","accuracy":100,"power":200,"pp":5,"effectChance":null,"priority":0,"type":"normal","damageType":"physical","statChanges":[],"effect":"User faints, even if the attack fails or misses.  Inflicts regular damage."}

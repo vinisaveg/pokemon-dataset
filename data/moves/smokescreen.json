@@ -1,0 +1,1 @@
+{"id":108,"name":"smokescreen","accuracy":100,"power":null,"pp":20,"effectChance":null,"priority":0,"type":"normal","damageType":"status","statChanges":[{"change":-1,"stat":{"name":"accuracy","url":"https://pokeapi.co/api/v2/stat/7/"}}],"effect":"Lowers the target's accuracy by one stage."}

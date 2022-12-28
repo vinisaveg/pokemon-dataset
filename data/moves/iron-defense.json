@@ -1,0 +1,1 @@
+{"id":334,"name":"iron-defense","accuracy":null,"power":null,"pp":15,"effectChance":null,"priority":0,"type":"steel","damageType":"status","statChanges":[{"change":2,"stat":{"name":"defense","url":"https://pokeapi.co/api/v2/stat/3/"}}],"effect":"Raises the user's Defense by two stages."}

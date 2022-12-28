@@ -1,0 +1,1 @@
+{"id":221,"name":"sacred-fire","accuracy":95,"power":100,"pp":5,"effectChance":50,"priority":0,"type":"fire","damageType":"physical","statChanges":[],"effect":"Inflicts regular damage.  Has a $effect_chance% chance to burn the target.  Frozen Pokémon may use this move, in which case they will thaw."}

@@ -1,0 +1,1 @@
+{"id":225,"name":"dragon-breath","accuracy":100,"power":60,"pp":20,"effectChance":30,"priority":0,"type":"dragon","damageType":"special","statChanges":[],"effect":"Inflicts regular damage.  Has a $effect_chance% chance to paralyze the target."}

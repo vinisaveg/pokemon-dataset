@@ -1,0 +1,1 @@
+{"id":671,"name":"spotlight","accuracy":null,"power":null,"pp":15,"effectChance":null,"priority":3,"type":"normal","damageType":"status","statChanges":[],"effect":"For the duration of the turn, if the target is also a valid target for a move used by one of its opponents, that move will target it instead."}

@@ -1,0 +1,1 @@
+{"id":707,"name":"stomping-tantrum","accuracy":100,"power":75,"pp":10,"effectChance":null,"priority":0,"type":"ground","damageType":"physical","statChanges":[],"effect":"Inflicts regular damage.  Power is doubled if the user's last move failed for any reason (i.e., produced the message \"But it failed!\") or was ineffective due to types."}

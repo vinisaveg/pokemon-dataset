@@ -1,0 +1,1 @@
+{"id":685,"name":"purify","accuracy":null,"power":null,"pp":20,"effectChance":null,"priority":0,"type":"poison","damageType":"status","statChanges":[],"effect":"Cures the target of its major status ailment and heals the user for 50% of its max HP.  If the target has no major status ailment, this move will fail."}

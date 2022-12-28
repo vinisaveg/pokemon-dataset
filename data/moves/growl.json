@@ -1,0 +1,1 @@
+{"id":45,"name":"growl","accuracy":100,"power":null,"pp":40,"effectChance":null,"priority":0,"type":"normal","damageType":"status","statChanges":[{"change":-1,"stat":{"name":"attack","url":"https://pokeapi.co/api/v2/stat/2/"}}],"effect":"Lowers the target's Attack by one stage."}

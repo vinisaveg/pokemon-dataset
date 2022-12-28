@@ -1,0 +1,1 @@
+{"id":40,"name":"poison-sting","accuracy":100,"power":15,"pp":35,"effectChance":30,"priority":0,"type":"poison","damageType":"physical","statChanges":[],"effect":"Inflicts regular damage.  Has a $effect_chance% chance to poison the target."}

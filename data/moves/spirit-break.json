@@ -1,0 +1,1 @@
+{"id":789,"name":"spirit-break","accuracy":100,"power":75,"pp":15,"effectChance":100,"priority":0,"type":"fairy","damageType":"physical","statChanges":[{"change":-1,"stat":{"name":"special-attack","url":"https://pokeapi.co/api/v2/stat/4/"}}],"effect":"Inflicts regular damage.  Has a $effect_chance% chance to lower the target's Special Attack by one stage."}

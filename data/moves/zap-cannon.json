@@ -1,0 +1,1 @@
+{"id":192,"name":"zap-cannon","accuracy":50,"power":120,"pp":5,"effectChance":100,"priority":0,"type":"electric","damageType":"special","statChanges":[],"effect":"Inflicts regular damage.  Has a $effect_chance% chance to paralyze the target."}

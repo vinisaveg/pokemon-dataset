@@ -1,0 +1,1 @@
+{"id":235,"name":"synthesis","accuracy":null,"power":null,"pp":5,"effectChance":null,"priority":0,"type":"grass","damageType":"status","statChanges":[],"effect":"Heals the user for half its max HP.\n\nDuring sunny day, the healing is increased to 2/3 max HP.\n\nDuring hail, rain dance, or sandstorm, the healing is decreased to 1/4 max HP."}

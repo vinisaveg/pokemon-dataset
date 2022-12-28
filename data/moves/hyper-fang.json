@@ -1,0 +1,1 @@
+{"id":158,"name":"hyper-fang","accuracy":90,"power":80,"pp":15,"effectChance":10,"priority":0,"type":"normal","damageType":"physical","statChanges":[],"effect":"Inflicts regular damage.  Has a $effect_chance% chance to make the target flinch."}

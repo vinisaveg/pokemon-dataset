@@ -1,0 +1,1 @@
+{"id":527,"name":"electroweb","accuracy":95,"power":55,"pp":15,"effectChance":100,"priority":0,"type":"electric","damageType":"special","statChanges":[{"change":-1,"stat":{"name":"speed","url":"https://pokeapi.co/api/v2/stat/6/"}}],"effect":"Lowers the target's Speed by one stage."}

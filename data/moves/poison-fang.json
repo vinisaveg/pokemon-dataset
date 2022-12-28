@@ -1,0 +1,1 @@
+{"id":305,"name":"poison-fang","accuracy":100,"power":50,"pp":15,"effectChance":50,"priority":0,"type":"poison","damageType":"physical","statChanges":[],"effect":"Inflicts regular damage.  Has a $effect_chance% chance to badly poison the target."}

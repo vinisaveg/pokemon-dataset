@@ -1,0 +1,1 @@
+{"id":435,"name":"discharge","accuracy":100,"power":80,"pp":15,"effectChance":30,"priority":0,"type":"electric","damageType":"special","statChanges":[],"effect":"Inflicts regular damage.  Has a $effect_chance% chance to paralyze the target."}

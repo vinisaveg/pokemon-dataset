@@ -1,0 +1,1 @@
+{"id":172,"name":"flame-wheel","accuracy":100,"power":60,"pp":25,"effectChance":10,"priority":0,"type":"fire","damageType":"physical","statChanges":[],"effect":"Inflicts regular damage.  Has a $effect_chance% chance to burn the target.  Frozen Pokémon may use this move, in which case they will thaw."}

@@ -1,0 +1,1 @@
+{"id":103,"name":"screech","accuracy":85,"power":null,"pp":40,"effectChance":null,"priority":0,"type":"normal","damageType":"status","statChanges":[{"change":-2,"stat":{"name":"defense","url":"https://pokeapi.co/api/v2/stat/3/"}}],"effect":"Lowers the target's Defense by two stages."}

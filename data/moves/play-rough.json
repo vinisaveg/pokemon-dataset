@@ -1,0 +1,1 @@
+{"id":583,"name":"play-rough","accuracy":90,"power":90,"pp":10,"effectChance":10,"priority":0,"type":"fairy","damageType":"physical","statChanges":[{"change":-1,"stat":{"name":"attack","url":"https://pokeapi.co/api/v2/stat/2/"}}],"effect":"Inflicts regular damage.  Has a $effect_chance% chance to lower the target's Attack by one stage."}

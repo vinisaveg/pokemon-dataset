@@ -1,0 +1,1 @@
+{"id":14,"name":"swords-dance","accuracy":null,"power":null,"pp":20,"effectChance":null,"priority":0,"type":"normal","damageType":"status","statChanges":[{"change":2,"stat":{"name":"attack","url":"https://pokeapi.co/api/v2/stat/2/"}}],"effect":"Raises the user's Attack by two stages."}

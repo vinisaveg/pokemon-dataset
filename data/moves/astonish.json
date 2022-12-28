@@ -1,0 +1,1 @@
+{"id":310,"name":"astonish","accuracy":100,"power":30,"pp":15,"effectChance":30,"priority":0,"type":"ghost","damageType":"physical","statChanges":[],"effect":"Inflicts regular damage.  Has a $effect_chance% chance to make the target flinch."}

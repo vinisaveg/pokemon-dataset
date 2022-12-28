@@ -1,0 +1,1 @@
+{"id":705,"name":"fleur-cannon","accuracy":90,"power":130,"pp":5,"effectChance":100,"priority":0,"type":"fairy","damageType":"special","statChanges":[{"change":-2,"stat":{"name":"special-attack","url":"https://pokeapi.co/api/v2/stat/4/"}}],"effect":"Inflicts regular damage, then lowers the user's Special Attack by two stages."}

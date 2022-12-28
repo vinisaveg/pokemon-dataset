@@ -1,0 +1,1 @@
+{"id":398,"name":"poison-jab","accuracy":100,"power":80,"pp":20,"effectChance":30,"priority":0,"type":"poison","damageType":"physical","statChanges":[],"effect":"Inflicts regular damage.  Has a $effect_chance% chance to poison the target."}

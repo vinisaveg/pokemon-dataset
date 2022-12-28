@@ -1,0 +1,1 @@
+{"id":534,"name":"razor-shell","accuracy":95,"power":75,"pp":10,"effectChance":50,"priority":0,"type":"water","damageType":"physical","statChanges":[{"change":-1,"stat":{"name":"defense","url":"https://pokeapi.co/api/v2/stat/3/"}}],"effect":"Inflicts regular damage.  Has a $effect_chance% chance to lower the target's Defense by one stage."}

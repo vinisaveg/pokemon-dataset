@@ -1,0 +1,1 @@
+{"id":355,"name":"roost","accuracy":null,"power":null,"pp":10,"effectChance":null,"priority":0,"type":"flying","damageType":"status","statChanges":[],"effect":"Heals the user for half its max HP.  If the user is flying, its flying type is ignored until the end of this turn."}

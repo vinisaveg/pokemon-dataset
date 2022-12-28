@@ -1,0 +1,1 @@
+{"id":729,"name":"zippy-zap","accuracy":100,"power":80,"pp":10,"effectChance":100,"priority":2,"type":"electric","damageType":"physical","statChanges":[{"change":1,"stat":{"name":"evasion","url":"https://pokeapi.co/api/v2/stat/8/"}}],"effect":"Inflicts regular damage."}

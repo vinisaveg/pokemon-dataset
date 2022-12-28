@@ -1,0 +1,1 @@
+{"id":554,"name":"ice-burn","accuracy":90,"power":140,"pp":5,"effectChance":30,"priority":0,"type":"ice","damageType":"special","statChanges":[],"effect":"Inflicts regular damage.  Has a $effect_chance% chance to burn the target.  User charges for one turn before attacking."}

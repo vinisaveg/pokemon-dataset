@@ -1,0 +1,1 @@
+{"id":539,"name":"night-daze","accuracy":95,"power":85,"pp":10,"effectChance":40,"priority":0,"type":"dark","damageType":"special","statChanges":[{"change":-1,"stat":{"name":"accuracy","url":"https://pokeapi.co/api/v2/stat/7/"}}],"effect":"Inflicts regular damage.  Has a $effect_chance% chance to lower the target's accuracy by one stage."}
