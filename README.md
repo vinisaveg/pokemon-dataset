@@ -1,3 +1,8 @@
-# pokemon-dataset
+<div align="center">
+   <img src=".github/snorlax.gif" width="auto"/>
+</div>
 
-A pokemon data gathering including sprites, moves, items and stats.
+<div align="center">
+   <h1>pokemon-dataset</h1>
+   <p>A pokemon data gathering including sprites, moves, items and stats.</p>
+</div>
